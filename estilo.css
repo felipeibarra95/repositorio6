@@ -1,0 +1,27 @@
+ #div1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+        }
+
+#caja1 {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+        }
+
+#caja2 {
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#caja3 {
+    background-color: crimson;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
